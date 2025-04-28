@@ -6,3 +6,5 @@ Este é o meu primerio projeto utiicando o **Git** e **Github**
 - Nova modificação
 - Adicionada uma nova branch no projeto
 - Adicionada uma nova funcionalidade
+- Fiz uma funcionalidade muito legal
+    - Cadastro de clientes
